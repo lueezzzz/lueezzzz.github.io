@@ -14,14 +14,14 @@ export default function Home() {
 
                     <nav className="social-links" aria-label="Social links">
                         <a
-                            href="https://www.linkedin.com/in/rian-mabait"
+                            href="https://www.linkedin.com/in/https://www.linkedin.com/in/rian-mabait-a1044626b/"
                             target="_blank"
                             rel="noopener"
                         >
                             LinkedIn
                         </a>
                         <a
-                            href="https://github.com/rianluisx"
+                            href="https://github.com/lueezzzz"
                             target="_blank"
                             rel="noopener"
                         >
